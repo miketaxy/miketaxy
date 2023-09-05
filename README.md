@@ -4,7 +4,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,java,mongodb,spring,mysql,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,angular,java,mongodb,spring,mysql,git,github,vscode)](https://skillicons.dev)
 
 ----
 
